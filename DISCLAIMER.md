@@ -1,6 +1,6 @@
 ## Legal Disclaimer
 
-Assistants Hub incorporates artificial intelligence (AI) features powered by technologies from Google LLC and OpenAI, Inc. These AI tools process inputs you provide to generate outputs and functionalities within this service. By using Assistants Hub, you acknowledge and agree to the following:
+Assistants Hub incorporates artificial intelligence (AI) features powered by technologies from Google LLC and OpenAI, Inc. These AI tools process inputs you provide to generate outputs and functionalities within this service. By using Assistants Hub, you acknowledge and agree to the following: 123
 
 ### AI Model Limitations
 
